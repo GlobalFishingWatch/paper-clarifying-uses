@@ -5,4 +5,4 @@ The script produces a comparison plot showing general model, trawler model, and 
 
 Self-reported data is not shareable, for access, please place enquiry with the authors of [Hintzen, N.T. et al. (2025) ‘Bias in Global Fishing Watch AIS data analyses results in overestimate of Northeast Atlantic pelagic fishing impact’, ICES Journal of Marine Science.](https://doi.org/10.1093/icesjms/fsaf033)  
 
-The [PySeas library](https://github.com/GlobalFishingWatch/pyseas/) is required to produce the plot. Tested using version 0.8.2.
+The [PySeas library](https://github.com/GlobalFishingWatch/pyseas/) is required to produce the plot. Tested with version 0.8.2.
