@@ -160,7 +160,7 @@ plot_tracks_multi(
         "b) trawler model predictions",
         "c) self-reported fishing",
     ],
-    save_to=notebook_dir / "reply_plot.pdf",
+    save_to=notebook_dir / "plot.pdf",
 )
 
 plt.show()
